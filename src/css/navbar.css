@@ -37,7 +37,10 @@
 .home-navbar .navbar-container .menu .login-btn {
   padding: 6px 18px 4px 18px;
   background: #3776cc;
+  font-size: 17px;
   text-align: center;
+  font-family: "Poppins";
+  letter-spacing: 1px;
   text-transform: uppercase;
   color: #f8f8ff;
 }
@@ -142,11 +145,12 @@
   border-radius: 4px;
   background: #1976d2;
   text-align: center;
-  font-family: Poppins;
-  font-size: 17px;
+  font-family: "Poppins";
+  font-size: 18px;
   font-style: normal;
   font-weight: 400;
   line-height: normal;
+  letter-spacing: 1px;
   text-transform: uppercase;
   color: #f8f8ff;
 }
